@@ -1,7 +1,7 @@
 # Django Static Pages (No Templates)
 
 ## Description
-This project contains 4 static web pages using Django HttpResponse.
+ project contains 4 static web pages using Django HttpResponse.
 
 ## Pages
 - Home
@@ -9,25 +9,17 @@ This project contains 4 static web pages using Django HttpResponse.
 - About
 - SignIn
 
-## views.py
-```python
-# paste code
-```
-
-## urls.py
-```python
-# paste code
-```
-
-## settings.py (INSTALLED_APPS)
-```python
-INSTALLED_APPS = [
-    'static_pages_no_templates',
-]
-```
-
 ## Screenshots
-![Home](screenshots/home.png)
-![Contact](screenshots/contact.png)
-![About](screenshots/about.png)
-![SignIn](screenshots/signin.png)
+### Home Page
+![Home Page](Screenshot/Home.png)
+### About Page
+![About](Screenshot/AboutUs.png)
+
+### Contact Us
+![Contact](Screenshot/ContactUs.png)
+
+### Sign In
+![SignIn](Screenshot/SignIn.png)
+
+
+
