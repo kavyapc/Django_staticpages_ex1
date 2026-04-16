@@ -11,15 +11,16 @@
 
 ## Screenshots
 ### Home Page
-![Home Page](Screenshot/Home.png)
+![Home](Screenshot/Home.PNG)
+
 ### About Page
-![About](Screenshot/AboutUs.png)
+![About](Screenshot/AboutUs.PNG)
 
 ### Contact Us
-![Contact](Screenshot/ContactUs.png)
+![Contact](Screenshot/ContactUs.PNG)
 
 ### Sign In
-![SignIn](Screenshot/SignIn.png)
+![SignIn](Screenshot/SignIn.PNG)
 
 
 
